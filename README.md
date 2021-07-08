@@ -12,6 +12,7 @@
 ### Podcasts
 * [Null++](https://nullplus.plus)
 * [Tech And Coffee](https://open.spotify.com/show/2qCPRIhCUQt9cb37mV7mgk)
+* [Open IT Podcast](https://podcasts.apple.com/eg/podcast/open-it-podcast/id1540246753)
 
 <a name="youtube"></a>
 ### Youtube Channels
