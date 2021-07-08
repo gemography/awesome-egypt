@@ -1,6 +1,6 @@
 # 🇪🇬 Awesome Egypt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collection of amazing projects built by Egyptian developers. 
+> A collection of amazing things built by Egyptian developers. 
 
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
@@ -11,6 +11,7 @@
 <a name="podcasts"></a>
 ### Podcasts
 * [Null++](https://nullplus.plus)
+* [Tech And Coffee](https://open.spotify.com/show/2qCPRIhCUQt9cb37mV7mgk)
 
 <a name="youtube"></a>
 ### Youtube Channels
